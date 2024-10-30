@@ -4,9 +4,10 @@
   "description": "joined sound system on our student campus",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite client",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "server": "vite server"
   },
   "repository": {
     "type": "git",
