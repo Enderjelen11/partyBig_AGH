@@ -9,6 +9,5 @@ function randomString(len){
     return res
 }
 
-console.log(randomString(10))
-
-const peer = new Peer("test");
+const userId = randomString(10)
+const peer = new Peer(userId);
