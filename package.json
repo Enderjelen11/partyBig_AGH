@@ -4,7 +4,7 @@
   "description": "joined sound system on our student campus",
   "main": "index.js",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
