@@ -1,0 +1,22 @@
+{
+  "name": "partybig_agh",
+  "version": "1.0.0",
+  "description": "joined sound system on our student campus",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enderjelen11/partyBig_AGH.git"
+  },
+  "author": "Kacper Jelonek & Jakub Krzysik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enderjelen11/partyBig_AGH/issues"
+  },
+  "homepage": "https://github.com/Enderjelen11/partyBig_AGH#readme",
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
