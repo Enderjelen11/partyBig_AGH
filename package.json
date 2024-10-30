@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Enderjelen11/partyBig_AGH#readme",
   "devDependencies": {
     "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "peerjs": "^1.5.4"
   }
 }
