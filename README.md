@@ -92,5 +92,5 @@ We welcome contributions from the AGH University community! If you’re interest
 
 ## Contact
 
-For any questions or issues, please reach out to the project maintainer at **jakubkrzysik1@gmail.com.com**.
+For any questions or issues, please reach out to the project maintainer at **jakubkrzysik1@gmail.com**.
 
